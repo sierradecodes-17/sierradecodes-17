@@ -39,18 +39,6 @@ class ShivanshGupta:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sierradecodes-17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierradecodes-17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -71,13 +59,6 @@ class ShivanshGupta:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sierradecodes-17&theme=algolia&no-frame=true&column=7"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -98,8 +79,6 @@ class ShivanshGupta:
 </div>
 
 ---
-
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
