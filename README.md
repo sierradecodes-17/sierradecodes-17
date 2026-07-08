@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🤖+Shivansh+Gupta;🚀+Aspiring+AI%2FML+Engineer;🧠+Building+with+Data+Science+%26+GenAI;⚡+Learning.+Building.+Innovating." />
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:38bdf8&height=220&section=header&text=AI%20%7C%20ML%20%7C%20GENAI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ---
