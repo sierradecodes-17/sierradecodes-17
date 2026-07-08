@@ -53,16 +53,16 @@ class ShivanshGupta:
 
 ---
 
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/sierradecodes-17/sierradecodes-17/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/sierradecodes-17/sierradecodes-17/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
+
 
 ## 💻 LeetCode
 
