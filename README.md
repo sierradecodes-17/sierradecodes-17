@@ -74,9 +74,7 @@ class ShivanshGupta:
 ## 🏆 Achievements
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sierradecodes-17&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=sierradecodes-17&theme=algolia&no-frame=true&column=7"/>
 </div>
 
 ---
@@ -95,11 +93,13 @@ class ShivanshGupta:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/leetcode.com/u/xoHkzrloNO/?theme=dark&font=JetBrains+Mono"/>
+<img src="https://leetcard.jacoblin.cool/xoHkzrloNO?theme=dark&font=JetBrains+Mono&ext=contest"/>
 
 </div>
 
 ---
+
+## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
@@ -111,6 +111,10 @@ class ShivanshGupta:
 
 <a href="mailto:sierraoperates1786@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+
+<a href="https://github.com/sierradecodes-17">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </div>
@@ -128,12 +132,6 @@ class ShivanshGupta:
 ```
 
 ---
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sierradecodes-17&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
