@@ -68,7 +68,7 @@ class ShivanshGupta:
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/xoHkzrloNO?theme=dark&font=JetBrains+Mono&ext=contest"/>
+<img src="https://leetcode.com/u/sierrx_17/"/>
 
 </div>
 
