@@ -65,8 +65,8 @@ class ShivanshGupta:
   <a href="https://leetcode.com/u/sierrx_17/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-sierrx__17-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
   </a>
-  <br/>
-  <img src="https://leetcode-stats-card.vercel.app/api?username=sierrx_17" alt="LeetCode Stats"/>
+  <br/><br/>
+  <img src="https://leetcard.jacoblin.cool/sierrx_17?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 ---
 
