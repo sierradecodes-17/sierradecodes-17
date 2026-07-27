@@ -50,13 +50,10 @@ class ShivanshGupta:
 </div>
 
 ---
-
 ## 🐍 Contribution Snake
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/sierradecodes-17/sierradecodes-17/output/github-contribution-grid-snake-dark.svg" />
-
+  <img src="https://raw.githubusercontent.com/sierradecodes-17/sierradecodes-17/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/sierradecodes-17/sierradecodes-17/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Snake"/>
 </div>
 
 ---
