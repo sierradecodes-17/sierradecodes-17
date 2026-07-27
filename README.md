@@ -32,13 +32,11 @@ class ShivanshGupta:
 </div>
 
 ---
-
 ## 🔥 Contribution Streak
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sierradecodes-17&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/sierradecodes-17">
+    <img src="https://streak-stats.demolab.com?user=sierradecodes-17&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  </a>
 </div>
 
 ---
@@ -62,16 +60,14 @@ class ShivanshGupta:
 </div>
 
 ---
-
-
 ## 💻 LeetCode
-
 <div align="center">
-
-<img src="https://leetcode.com/u/sierrx_17/"/>
-
+  <a href="https://leetcode.com/u/sierrx_17/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-sierrx__17-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+  <br/>
+  <img src="https://leetcode-stats-card.vercel.app/api?username=sierrx_17" alt="LeetCode Stats"/>
 </div>
-
 ---
 
 ## 🌐 Connect With Me
